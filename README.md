@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s Scientific Computing Hub
+# Welcome to Eteneza's Scientific Computing Hub
 
 ## About Me
 
@@ -7,9 +7,9 @@ I'm a passionate mathematician from Albania with a rich background in mathematic
 ## Education
 
 - **Bachelor’s in Mathematics**
-  - [Albanian University Name]
-- **Master’s in Scientific Computing**
-  - [German University Name]
+ 
+- **Master’s in Scientific Computing** (Current)
+m
 
 ## Research and Coursework
 
