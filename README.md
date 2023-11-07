@@ -27,6 +27,6 @@ m
 I'm open to collaboration and discussions in the realm of scientific computing and optimization.
 
 - Email: spahajeteneza@yahoo.com
-- LinkedIn: [LinkedIn_Profile_Link]
+
 
 Thank you for visiting my markdown page!
